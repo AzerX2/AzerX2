@@ -5,10 +5,6 @@
 - 💞️ I’m looking to collaborate on discord bot
 - 📫 How to reach me bpt.cor@gmail.com
 
-<!---
-AzerX2/AzerX2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <!-- Links -->
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 <!-- https://devicon.dev/ -->
