@@ -10,6 +10,12 @@
 <!-- https://devicon.dev/ -->
 <h1 align="center">👋 Hello everyone, I'm Azer_X2!</h1>
 <h3 align="center">19 years old</h3>
+<p align="center">
+  <a align="center" href="https://discords.com/bio/p/AzerX2" target="_blank">
+    <img align="center" src="https://discord.c99.nl/widget/theme-1/436952983671013377.png" />
+    <!-- Original author: https://github.com/LACOSTAR91 -->
+  </a>
+</p>
 <br>
 
 - 👨‍💻 NodeJS developper
