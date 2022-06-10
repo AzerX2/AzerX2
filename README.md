@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
  
  <p align="center"></p>
 <div align="center">
-    <a href="https://github.com/tsyke">
+    <a href="https://github.com/AzerX2">
       <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api?username=tsyke&count_private=true&show_icons=true&include_all_commits=true&theme=radical&bg_color=000000"/>
       <!-- Original author: https://github.com/tsyke -->
       <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsyke&lang=FR&theme=radical&bg_color=000000&langs_count=7"/>
@@ -43,7 +43,6 @@ You can click the Preview link to take a look at your changes.
   <hr>
      <h3> Framwork </h3> 
      <img align="center" alt="React" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-     <img align="center" alt="Svelte" height="55" width="55" src="https://www.jsdelivr.com/package/npm/svelte-icon">
   
   <hr>    
    <h3> OS </h3> 
@@ -61,8 +60,6 @@ You can click the Preview link to take a look at your changes.
      <img align="center" alt="Github" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
      <img align="center" alt="NodeJS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
      <!-- Original author: https://github.com/LACOSTAR91 -->
-     <img align="center" alt="Yarn" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg">
-     <img align="center" alt="Figma" height="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
      <img align="center" alt="NGINX" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg">
      <img align="center" alt="Fillezilla" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">
 
