@@ -18,7 +18,7 @@
 </p>
 <br>
 
-- 👨‍💻 NodeJS developper
+- 👨‍💻 JS/C#/Java developper
 - 📝 I'm currently learning C
  
  <p align="center"></p>
