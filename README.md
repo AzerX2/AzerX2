@@ -6,6 +6,8 @@
 - 👨‍💻 JS/C#/Java developper
 - 📝 I'm currently learning C
 
+![](https://komarev.com/ghpvc/?username=AzerX2&color=lightgrey)
+
 <p align="center">
   <a align="center" href="https://discords.com/bio/p/AzerX2" target="_blank">
     <img align="center" src="https://discord.c99.nl/widget/theme-1/436952983671013377.png" />
