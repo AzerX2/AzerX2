@@ -1,4 +1,4 @@
-<!--
+
 - 👋 Hi, I’m @AzerX2
 - 👀 I’m interested in computing and now i want to learn many things to understand world
 - 🌱 I’m currently learning js and creating website
@@ -14,4 +14,4 @@
 
 - 👨‍💻 JS/C#/Java developper
 - 📝 I'm currently learning C
---!>
+
