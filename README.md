@@ -1,9 +1,10 @@
 
 - 👋 Hi, I’m @AzerX2
 - 👀 I’m interested in computing and now i want to learn many things to understand world
-- 🌱 I’m currently learning js and creating website
-- 💞️ I’m looking to collaborate on discord bot
+- 🌱 I’m also interest in web-design
 - 📫 How to reach me bpt.cor@gmail.com
+- 👨‍💻 JS/C#/Java developper
+- 📝 I'm currently learning C
 
 <p align="center">
   <a align="center" href="https://discords.com/bio/p/AzerX2" target="_blank">
@@ -11,7 +12,4 @@
   </a>
 </p>
 <br>
-
-- 👨‍💻 JS/C#/Java developper
-- 📝 I'm currently learning C
 
