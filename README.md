@@ -17,7 +17,7 @@
 
 ### My Tools
 <p>
-  <img alt="Arch" src="https://img.shields.io/badge/-Arch-2088FF?style=flat-square&logo=arch-linux&logoColor=dark" />
+  <img alt="Js" src="https://img.shields.io/badge/-JS-2088FF?style=flat-square&logo=javascript&logoColor=dark" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-E10098?style=flat-square&logo=c#&logoColor=dark" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=dark" />
   <img alt="Python 3" src="https://img.shields.io/badge/-Python%203-F7B93E?style=flat-square&logo=python&logoColor=dark" /> 
