@@ -3,7 +3,7 @@
 - 👀 I’m interested in computing and now i want to learn many things to understand world
 - 🌱 I’m also interest in web-design
 - 📫 How to reach me bpt.cor@gmail.com
-- 👨‍💻 JS/C#/Java/PY developper
+- 👨‍💻 C/JS/C#/Java/PY developper
 - 📝 I'm currently learning C
 
 ![](https://komarev.com/ghpvc/?username=AzerX2&color=lightgrey)
